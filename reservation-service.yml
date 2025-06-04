@@ -5,10 +5,7 @@ spring:
   application:
     name: customer-service
 
-  datasource:
-    url: jdbc:postgresql://localhost:5432/HotelManagement
-    username: postgres
-    password: Vishv@642592
+
     
 
   jpa:
